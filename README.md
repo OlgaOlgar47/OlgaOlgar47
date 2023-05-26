@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/OlgaOlgar47](https://github.com/OlgaOlgar47)
+- 👨‍💻 All of my projects are available here on GitHub
 
 - 📫 How to reach me **olga.averyanova47@gmail.com**
 
