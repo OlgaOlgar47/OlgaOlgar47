@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Olga</h1>
 <h3 align="center">A passionate web developer from Russia</h3>
 
+-  frontend-developer XARU.io
+-  student Yandex.Practicum
+  
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available here on GitHub
+- 👨‍💻 My projects are available here on GitHub
 
 - 📫 How to reach me **olga.averyanova47@gmail.com**
 
